@@ -1,0 +1,28 @@
+name: Jambu Madu Deli
+favicon: null
+layout_spectrum: 0.38527491712011397
+typography_spectrum: 0.2772728924173862
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6156529888976365
+  lightness: 0.7832811418920755
+  saturation: 0.03647767729125917
+  rhythmicContrast: 0.6074159604031593
+purpose: []
